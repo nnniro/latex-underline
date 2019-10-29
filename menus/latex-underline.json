@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle latex-underline",
+        "command": "latex-underline:underlining"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "latex-underline",
+          "submenu": [
+            {
+              "label": "underlining",
+              "command": "latex-underline:underlining"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

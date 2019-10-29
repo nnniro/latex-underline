@@ -1,0 +1,18 @@
+{
+  "name": "latex-underline",
+  "main": "./lib/latex-underline",
+  "version": "0.0.0",
+  "description": "this package helps you underline text",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "latex-underline:underlining"
+  },
+  "repository": "https://github.com/nnniro/latex-underline",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
