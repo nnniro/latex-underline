@@ -9,7 +9,7 @@ This package is inspired by [tex-color](https://atom.io/packages/tex-color).
 
 ## Demo
 
-![Imgur](https://i.imgur.com/A4XivRU.gifv)
+![Imgur](https://i.imgur.com/A4XivRU.gif)
 
 
 ## Installing
